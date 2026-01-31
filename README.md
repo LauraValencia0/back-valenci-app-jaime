@@ -69,9 +69,4 @@ Clientes
 GET /api/admin/usuarios
 Descripción: Endpoint de uso administrativo para listar todos los usuarios registrados en el sistema, mostrando su rol y empresa asociada .
 
-Notas Técnicas Generales
-Base URL: http://localhost:8080.
-Formato de datos: Todos los endpoints consumen y retornan application/json.
-Tipos de datos: Los IDs son generalmente integer ($int32).
-¿Te gustaría que te ayude a generar el código de los DTOs en Java o la estructura de alguna Entity específica basada en estos esquemas?
 
